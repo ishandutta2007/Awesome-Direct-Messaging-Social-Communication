@@ -32,73 +32,35 @@ Contributions welcome! Open a PR to add/update entries. Keep descriptions factua
 
 ## Table of Contents
 
+- [Sector Overview & Market Dynamics](#sector-overview--market-dynamics)
 - [SaaS/Hosted Platforms](#saashosted-platforms)
-
 - [Open-Source GitHub Projects](#open-source-github-projects)
-
 - [How to Contribute](#how-to-contribute)
-
 - [Support & Share](#support--share)
-
 - [Disclaimer](#disclaimer)
+
+
+
+## Sector Overview & Market Dynamics
+
+The global direct and mobile messaging sector is estimated at **$140B–$190B** (projected to exceed $250B+ by the late 2020s), driven by 6.8B+ smartphone users, conversational AI, and pervasive enterprise-to-consumer A2P/omnichannel routing. The market exhibits a **moderately concentrated, winner-take-most structure** at the consumer network and core CPaaS layer where massive network effects cement regional monopolies (Meta's WhatsApp, Tencent's WeChat, LINE, Telegram), but remains **fragmented across specialized niches** such as developer chat APIs, compliance-first workplace collaboration, and sovereign/decentralized communication infrastructures.
 
 
 
 ## SaaS/Hosted Platforms
 
-
-
-- **[WhatsApp & WhatsApp Business (Meta)](https://whatsapp.com)**  
-
-  Global cloud messaging and business communication platform offering end-to-end encrypted personal chats, verified business profiles, catalog messaging, and Cloud API webhooks.
-
-
-
-- **[Discord](https://discord.com)**  
-
-  Real-time voice, video, and direct messaging platform built around persistent community servers, low-latency audio channels, and extensible bot/activity APIs.
-
-
-
-- **[Slack (Salesforce)](https://slack.com)**  
-
-  Cloud workplace direct messaging and channel collaboration platform featuring Huddles, Connect cross-organization DMs, workflow automation, and AI summaries.
-
-
-
-- **[Telegram Cloud Platform](https://telegram.org)**  
-
-  High-speed cloud-synced messaging and broadcast channel ecosystem featuring large group communities, mini-apps, bot APIs, and optional Secret Chats (with open-source official clients).
-
-
-
-- **[Threema (Hosted Swiss Infrastructure)](https://threema.ch)**  
-
-  Privacy-focused end-to-end encrypted messenger hosted in Switzerland requiring no phone number or email address (featuring open-source mobile/desktop clients paired with proprietary servers).
-
-
-
-- **[LINE](https://line.me)**  
-
-  All-in-one social messaging and super-app ecosystem providing encrypted direct messaging, voice/video calls, official business accounts, and sticker/payment integrations.
-
-
-
-- **[Viber (Rakuten Viber)](https://viber.com)**  
-
-  Cross-platform cloud messaging and VoIP calling platform featuring end-to-end encrypted one-on-one and group chats, communities, and business messaging APIs.
-
-
-
-- **[Element Matrix Services (EMS)](https://element.io)**  
-
-  Managed cloud hosting for Matrix homeservers and Element clients providing sovereign, federated, end-to-end encrypted messaging for enterprises and public-sector teams.
-
-
-
-- **[Stream Chat & Sendbird](https://getstream.io)**  
-
-  Cloud real-time messaging SDKs and hosted chat APIs enabling developers to embed scalable direct messaging, typing indicators, and moderation into mobile and web apps.
+| Platform | Valuation / Company Size | Pricing (Starting Paid Tier) | Free Tier Limits / Trial Limits | Description |
+| :--- | :--- | :--- | :--- | :--- |
+| **[WhatsApp & WhatsApp Business](https://whatsapp.com)** (Meta) | ~$1.6 Trillion Market Cap (Meta Platforms, Inc.) | Paid per 24-hr conversation window after free allowance (e.g., ~$0.005–$0.08 per marketing/utility conversation depending on country) | **Free Forever**: Free mobile app for small businesses; WhatsApp Business Cloud API provides **1,000 free service (user-initiated) conversations per month** for every WhatsApp Business Account | Global cloud messaging and business communication platform offering end-to-end encrypted chats, verified business profiles, catalog messaging, and Cloud API webhooks. |
+| **[Slack](https://slack.com)** (Salesforce) | ~$300 Billion Market Cap (Salesforce, Inc.) | **$8.75 per user/month** (Pro plan billed monthly, or $7.25/mo billed annually) | **Free Forever**: 90-day searchable message and file history, 1:1 audio/video Huddles, and up to 10 third-party app integrations | Cloud workplace direct messaging and channel collaboration platform featuring Huddles, Connect cross-organization DMs, workflow automation, and AI summaries. |
+| **[Telegram Cloud Platform](https://telegram.org)** | ~$30 Billion Valuation (Est. private bond valuation; >$1B annual revenue) | **$4.99 per user/month** (Telegram Premium; ~$3.99/mo billed annually) | **Free Forever**: Unlimited messaging, groups up to 200,000 members, public broadcast channels, and up to 2 GB file upload size limit per file | High-speed cloud-synced messaging and broadcast ecosystem featuring massive group communities, mini-apps, bot APIs, and optional Secret Chats. |
+| **[LINE](https://line.me)** (LY Corporation) | ~$23 Billion Market Cap (LY Corporation / SoftBank & Naver) | **¥5,000 per month** (~$33/mo for Light Business Account with 10,000 broadcast messages/mo) | **Free Forever**: Consumer app is 100% free; LINE Official Account (Business) free tier includes up to **200 free broadcast/targeted messages per month** | All-in-one social messaging and super-app ecosystem providing encrypted direct messaging, voice/video calls, official business accounts, and sticker/payment integrations. |
+| **[Discord](https://discord.com)** | ~$9 Billion Valuation (Secondary private valuation; $15B Series H peak; ~$800M ARR) | **$2.99 per user/month** (Nitro Basic) or $9.99/mo (full Nitro) | **Free Forever**: Unlimited core voice, video, text chat, screen sharing (up to 720p/30fps), server creation up to 500,000 members, and up to 10 MB per attachment file upload limit | Real-time voice, video, and direct messaging platform built around persistent community servers, low-latency audio channels, and extensible bot/activity APIs. |
+| **[Viber](https://viber.com)** (Rakuten Group) | ~$10 Billion Market Cap (Rakuten Group; acquired Viber for $900M) | **$5.99 per user/month** (Viber Plus) or pay-as-you-go VoIP credits via Viber Out | **Free Forever**: Unlimited encrypted 1:1 and group text messaging, voice/video calls to Viber contacts, and public community channels; business messaging includes free incoming chatbot messages | Cross-platform cloud messaging and VoIP calling platform featuring end-to-end encrypted personal and group chats, communities, and business messaging APIs. |
+| **[Sendbird](https://sendbird.com)** | ~$1.05 Billion Valuation (Series C Unicorn; $220M+ total funding) | **$399 per month** (Starter plan billed monthly, covers up to 5,000 MAU) | **Free Forever**: Developer Plan free forever with a hard limit of **100 Monthly Active Users (MAU)** and 5 concurrent connections; 30-day Free Trial with Pro features capped at 1,000 MAUs | Cloud real-time messaging SDKs, conversational AI, and hosted chat APIs enabling developers to embed scalable direct messaging, voice calls, and moderation into mobile/web apps. |
+| **[Stream Chat](https://getstream.io)** | ~$200 Million Valuation (Est. private valuation; $53M+ funding raised) | **$499 per month** (Standard Startup plan covers up to 10,000 MAU) | **Free Forever**: Free tier provides up to **1,000 MAU** and 100 peak concurrent connections; also offers an extended free Maker Account for qualified early-stage startups under $100k revenue | Enterprise-grade real-time messaging SDKs and hosted chat infrastructure enabling high-performance direct messaging, activity feeds, and automated moderation pipelines. |
+| **[Element Matrix Services (EMS)](https://element.io)** | ~$150 Million Valuation (Est. private valuation; $48M+ funding raised) | **$5.00 per user/month** (Element Cloud Starter, or $10/user/month for Element Business) | **Free Forever**: Free account on public `matrix.org` federated cloud (attachments capped ~10–100 MB); self-hosted Element Community Edition is free forever for up to **100 seats/users** | Managed cloud hosting for Matrix homeservers and Element clients providing sovereign, federated, end-to-end encrypted messaging for enterprises and public-sector teams. |
+| **[Threema](https://threema.ch)** | ~$30 Million Valuation (Est. private buyout by Comitis Capital / Afinum; ~$5M ARR) | **CHF 3.00 (~$3.40) per user/month** (Threema Work Core, billed annually) or $5.99 one-time consumer app purchase | **Free Trial**: **30-day Free Trial** for Threema Work with full feature access for up to **30 users** (no credit card required, terminates automatically without renewal) | Privacy-focused end-to-end encrypted messenger hosted in Switzerland requiring no phone number or email address (featuring open-source clients paired with secure infrastructure). |
 
 
 
