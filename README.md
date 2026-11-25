@@ -68,90 +68,90 @@ The following SaaS and managed messaging providers are ranked in **descending or
 
 ## 🔓 Open-Source GitHub Projects (Ranked by Stars)
 
-Each repository below features a live GitHub stargazer badge linking directly to the repository's stargazers page, sorted in **descending order by star count**:
+Each repository below features a live GitHub stargazer badge linking directly to the repository's stargazers page, sorted in **descending order by Stars_Count**:
 
 1. **[Rocket.Chat (`RocketChat/Rocket.Chat`)](https://github.com/RocketChat/Rocket.Chat)**  
-   [![GitHub stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/RocketChat/Rocket.Chat?style=social&color=white)](https://github.com/RocketChat/Rocket.Chat/stargazers)  
    🚀 Interoperable by design and governed by community sovereignty. Enterprise-grade open-source communication platform, Matrix federation support, and complete Slack/Teams replacement.
 
 2. **[Mattermost (`mattermost/mattermost`)](https://github.com/mattermost/mattermost)**  
-   [![GitHub stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/mattermost/mattermost?style=social&color=white)](https://github.com/mattermost/mattermost/stargazers)  
    💼 High-security, open-source platform for mission-critical developer collaboration, integrated playbooks, board workflows, and enterprise direct/channel messaging.
 
 3. **[Telegram Desktop (`telegramdesktop/tdesktop`)](https://github.com/telegramdesktop/tdesktop)**  
-   [![GitHub stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=social&color=white)](https://github.com/telegramdesktop/tdesktop/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/telegramdesktop/tdesktop?style=social&color=white)](https://github.com/telegramdesktop/tdesktop/stargazers)  
    ⚡ Official open-source C++ and Qt-based desktop client for Telegram, supporting high-throughput cloud messaging, large communities, and MTProto encryption.
 
 4. **[Signal Android (`signalapp/Signal-Android`)](https://github.com/signalapp/Signal-Android)**  
-   [![GitHub stars](https://img.shields.io/github/stars/signalapp/Signal-Android?style=social&color=white)](https://github.com/signalapp/Signal-Android/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/signalapp/Signal-Android?style=social&color=white)](https://github.com/signalapp/Signal-Android/stargazers)  
    🛡️ The gold standard for open-source private messaging. Built on the Signal Protocol (Double Ratchet, Sesame, X3DH) offering zero-knowledge end-to-end encrypted chats and VoIP.
 
 5. **[Zulip (`zulip/zulip`)](https://github.com/zulip/zulip)**  
-   [![GitHub stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/zulip/zulip?style=social&color=white)](https://github.com/zulip/zulip/stargazers)  
    🧵 Powerful open-source group and direct messaging platform uniquely combining real-time chat with email-like topic threading for productive, asynchronous team communication.
 
 6. **[SimpleX Chat (`simplex-chat/simplex-chat`)](https://github.com/simplex-chat/simplex-chat)**  
-   [![GitHub stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=social&color=white)](https://github.com/simplex-chat/simplex-chat/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/simplex-chat/simplex-chat?style=social&color=white)](https://github.com/simplex-chat/simplex-chat/stargazers)  
    🔒 The first messaging network operating with **zero user identifiers** (no phone numbers, usernames, or persistent public keys), transmitting double-ratchet encrypted payloads via unidirectional queues.
 
 7. **[Element Web / Desktop (`element-hq/element-web`)](https://github.com/element-hq/element-web)**  
-   [![GitHub stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/element-web?style=social&color=white)](https://github.com/element-hq/element-web/stargazers)  
    🌐 Glossy, full-featured web and desktop client for Matrix, providing decentralized, end-to-end encrypted messaging, voice/video conferencing, and cross-platform bridge management.
 
 8. **[Tinode (`tinode/chat`)](https://github.com/tinode/chat)**  
-   [![GitHub stars](https://img.shields.io/github/stars/tinode/chat?style=social&color=white)](https://github.com/tinode/chat/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/tinode/chat?style=social&color=white)](https://github.com/tinode/chat/stargazers)  
    ⚡ Pure open-source instant messaging server written in Go, featuring gRPC/REST/WebSockets with native clients for iOS (Swift), Android (Java), and web (React/JavaScript).
 
 9. **[Nostr Protocol (`nostr-protocol/nostr`)](https://github.com/nostr-protocol/nostr)**  
-   [![GitHub stars](https://img.shields.io/github/stars/nostr-protocol/nostr?style=social&color=white)](https://github.com/nostr-protocol/nostr/stargazers)  
+   [![GitHub_Stars](https://img.shields.io/github/stars/nostr-protocol/nostr?style=social&color=white)](https://github.com/nostr-protocol/nostr/stargazers)  
    📡 Truly censorship-resistant, decentralized social and direct messaging network protocol relying on simple cryptographic keypairs and federated relays.
 
 10. **[ejabberd (`processone/ejabberd`)](https://github.com/processone/ejabberd)**  
-    [![GitHub stars](https://img.shields.io/github/stars/processone/ejabberd?style=social&color=white)](https://github.com/processone/ejabberd/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/processone/ejabberd?style=social&color=white)](https://github.com/processone/ejabberd/stargazers)  
     🏰 Robust, fault-tolerant enterprise messaging server written in Erlang/Elixir, supporting XMPP and MQTT protocols for handling millions of concurrent users.
 
 11. **[Matrix Synapse (`element-hq/synapse`)](https://github.com/element-hq/synapse)**  
-    [![GitHub stars](https://img.shields.io/github/stars/element-hq/synapse?style=social&color=white)](https://github.com/element-hq/synapse/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/element-hq/synapse?style=social&color=white)](https://github.com/element-hq/synapse/stargazers)  
     🏛️ Reference open-source Matrix homeserver implementation written in Python and Rust, powering the backbone of decentralized secure communication across global organizations.
 
 12. **[Revolt / Stoat Backend (`revoltchat/backend`)](https://github.com/revoltchat/backend)**  
-    [![GitHub stars](https://img.shields.io/github/stars/revoltchat/backend?style=social&color=white)](https://github.com/revoltchat/backend/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/revoltchat/backend?style=social&color=white)](https://github.com/revoltchat/backend/stargazers)  
     🎮 User-first, open-source chat and community platform engineered in Rust, built as a privacy-respecting self-hostable alternative to Discord.
 
 13. **[Matrix Rust SDK (`matrix-org/matrix-rust-sdk`)](https://github.com/matrix-org/matrix-rust-sdk)**  
-    [![GitHub stars](https://img.shields.io/github/stars/matrix-org/matrix-rust-sdk?style=social&color=white)](https://github.com/matrix-org/matrix-rust-sdk/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/matrix-org/matrix-rust-sdk?style=social&color=white)](https://github.com/matrix-org/matrix-rust-sdk/stargazers)  
     🦀 High-performance client-server SDK for Matrix written in Rust, powering next-generation mobile applications (Element X) with native sliding sync and cryptographic speed.
 
 14. **[Mautrix WhatsApp Bridge (`mautrix/whatsapp`)](https://github.com/mautrix/whatsapp)**  
-    [![GitHub stars](https://img.shields.io/github/stars/mautrix/whatsapp?style=social&color=white)](https://github.com/mautrix/whatsapp/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/mautrix/whatsapp?style=social&color=white)](https://github.com/mautrix/whatsapp/stargazers)  
     🌉 Matrix-to-WhatsApp puppeting bridge written in Go, allowing users to send and receive WhatsApp direct messages within their unified Matrix chat interface.
 
 15. **[Delta Chat Android (`deltachat/deltachat-android`)](https://github.com/deltachat/deltachat-android)**  
-    [![GitHub stars](https://img.shields.io/github/stars/deltachat/deltachat-android?style=social&color=white)](https://github.com/deltachat/deltachat-android/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/deltachat/deltachat-android?style=social&color=white)](https://github.com/deltachat/deltachat-android/stargazers)  
     📧 Decentralized private messenger that uses standard email infrastructure (IMAP/SMTP) paired with Autocrypt E2EE, requiring no specialized chat servers.
 
 16. **[Delta Chat Desktop (`deltachat/deltachat-desktop`)](https://github.com/deltachat/deltachat-desktop)**  
-    [![GitHub stars](https://img.shields.io/github/stars/deltachat/deltachat-desktop?style=social&color=white)](https://github.com/deltachat/deltachat-desktop/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/deltachat/deltachat-desktop?style=social&color=white)](https://github.com/deltachat/deltachat-desktop/stargazers)  
     💻 Multi-platform desktop client (Windows, macOS, Linux) for Delta Chat, turning any standard email account into an encrypted instant messenger.
 
 17. **[Briar (`briar/briar`)](https://github.com/briar/briar)**  
-    [![GitHub stars](https://img.shields.io/github/stars/briar/briar?style=social&color=white)](https://github.com/briar/briar/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/briar/briar?style=social&color=white)](https://github.com/briar/briar/stargazers)  
     📡 Resilient, peer-to-peer encrypted messenger built for journalists and activists; routes messages directly over Tor, Bluetooth, or local Wi-Fi without central servers or internet access.
 
 18. **[Session Desktop (`session-foundation/session-desktop`)](https://github.com/session-foundation/session-desktop)**  
-    [![GitHub stars](https://img.shields.io/github/stars/session-foundation/session-desktop?style=social&color=white)](https://github.com/session-foundation/session-desktop/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/session-foundation/session-desktop?style=social&color=white)](https://github.com/session-foundation/session-desktop/stargazers)  
     🧅 Private desktop messenger operating over a decentralized, onion-routed node network (Oxen Service Nodes), leaving zero digital footprints and requiring no phone numbers.
 
 19. **[Gajim XMPP Client (`gajim/gajim`)](https://github.com/gajim/gajim)**  
-    [![GitHub stars](https://img.shields.io/github/stars/gajim/gajim?style=social&color=white)](https://github.com/gajim/gajim/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/gajim/gajim?style=social&color=white)](https://github.com/gajim/gajim/stargazers)  
     🪶 Feature-rich XMPP client written in Python and GTK, supporting OMEMO end-to-end encryption, multi-device synchronization, and secure group chats.
 
 20. **[oh-my-dm (`guhyunwoo/oh-my-dm`)](https://github.com/guhyunwoo/oh-my-dm)**  
-    [![GitHub stars](https://img.shields.io/github/stars/guhyunwoo/oh-my-dm?style=social&color=white)](https://github.com/guhyunwoo/oh-my-dm/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/guhyunwoo/oh-my-dm?style=social&color=white)](https://github.com/guhyunwoo/oh-my-dm/stargazers)  
     🕶️ Modern, discreet agent CLI-based direct messaging tool engineered for clean conversational workflows directly within terminal environments.
 
 21. **[Jami Client (`savoirfairelinux/jami-client-qt`)](https://github.com/savoirfairelinux/jami-client-qt)**  
-    [![GitHub stars](https://img.shields.io/github/stars/savoirfairelinux/jami-client-qt?style=social&color=white)](https://github.com/savoirfairelinux/jami-client-qt/stargazers)  
+    [![GitHub_Stars](https://img.shields.io/github/stars/savoirfairelinux/jami-client-qt?style=social&color=white)](https://github.com/savoirfairelinux/jami-client-qt/stargazers)  
     📞 Official GNU package offering serverless, peer-to-peer encrypted audio/video calling, screen sharing, and direct messaging built on OpenDHT.
 
 ---
